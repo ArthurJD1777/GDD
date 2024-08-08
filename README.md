@@ -58,10 +58,6 @@ Este repositório contém um template completo para um Documento de Design de Jo
     7.1. [Sistema de Progressão](#71-sistema-de-progressão)  
     7.2. [Sistema de Salvamento](#72-sistema-de-salvamento)  
 
-8. [Monetização](#8-monetização)<br>
-    8.1. [Modelo de Negócio](#81-modelo-de-negócio)  
-    8.2. [Itens Pagos](#82-itens-pagos)  
-
 9. [Testes e Qualidade](#9-testes-e-qualidade)<br>
     9.1. [Testes de Jogo](#91-testes-de-jogo)  
     9.2. [Feedback dos Jogadores](#92-feedback-dos-jogadores)  
@@ -73,21 +69,19 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 1. Informações Gerais
 
 ### 1.1. Título do Jogo
-*[Dica: Escolha um título que capture a essência do jogo. Deve ser algo cativante e fácil de lembrar. Por exemplo, "Aventura Mágica" para um jogo de fantasia ou "Corrida Implacável" para um jogo de corrida.]*
-- **Título:** 
+**Chase Fugitive** 
 
 ### 1.2. Plataforma
-*[Dica: Especifique todas as plataformas onde o jogo estará disponível. Isso pode incluir PC, consoles (como PlayStation, Xbox, Nintendo Switch), e dispositivos móveis (iOS, Android). Por exemplo, "Disponível para PC, PlayStation 5 e Xbox Series X".]*
+*Disponivel no PC*
 
 ### 1.3. Gênero
-*[Dica: Defina o gênero do jogo. Isso ajuda a estabelecer as expectativas dos jogadores e a direcionar o desenvolvimento. Exemplos de gêneros incluem RPG (Role-Playing Game), FPS (First-Person Shooter), Puzzle (Quebra-cabeça), Aventura, Plataforma, Estratégia, etc. Por exemplo, "RPG de Ação".]*
+*Jump 'n' Run e Aventura*
 
 ### 1.4. Público-Alvo
-*[Dica: Descreva o público-alvo do jogo. Considere fatores como faixa etária, interesses, nível de habilidade e preferências de jogo. Por exemplo, "Crianças de 8 a 12 anos interessadas em aventuras mágicas" ou "Adultos que gostam de jogos de estratégia complexos".]*
+*Todos os publicos Crianças, Jovens,Adultos e Terceira Idade*
 
 ### 1.5. Visão Geral do Jogo
-*[Dica: Forneça uma breve descrição do jogo, destacando os principais elementos de gameplay e história. Pense nisso como um resumo que pode ser usado para promover o jogo. Por exemplo, "Aventura Mágica é um RPG de ação onde os jogadores exploram um mundo fantástico, lutam contra criaturas místicas e resolvem puzzles para salvar o reino." ]*
-- **Descrição:**
+ *O jogador assume o papel de um agente de segurança, encarregado de proteger o museu mais prestigiado da cidade. Um ladrão de arte, invade o museu e rouba uma relíquia valiosa. Sua missão é persegui-lo por todo o museu, evitar armadilhas e obstáculos, e recuperar a relíquia roubada antes que seja tarde demais. O museu é repleto de salas temáticas, cada uma com seus próprios desafios e armadilhas únicas, como evitar obstáculos como seguranças patrulhando, câmeras de segurança, e até mesmo animais de estimação exóticos, além disso, eles também devem coletar itens especiais ao longo do caminho, como chaves para abrir portas trancadas ou dispositivos de rastreamento para localizar o ladrão. Pode ter um modo de desafio no qual os jogadores competem para completar níveis específicos o mais rápido possível. Também seria interessante incluir um modo multiplayer, no qual os jogadores podem enfrentar uns aos outros em corridas de obstáculos dentro do museu.*
 
 ## 2. Mecânicas de Jogo
 
@@ -100,8 +94,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 - **Controles:**
 
 ### 2.3. Objetivos e Metas
-*[Dica: Defina os principais objetivos e metas que o jogador deve alcançar. Estes podem ser objetivos a longo prazo (como derrotar o chefe final) ou a curto prazo (como completar uma missão específica). Por exemplo, "O objetivo principal é salvar a princesa, mas o jogador também deve completar missões secundárias para ganhar pontos de experiência e melhorar suas habilidades."]*
-- **Objetivos:**
+*Seu objetivo é pegar o ladrão, passar as fases e chegar ao fim impedindo ele de fugir com o diamante do museu*
 
 ### 2.4. Sistema de Pontuação
 *[Dica: Descreva como os pontos são atribuídos e quais são os critérios de pontuação. Inclua detalhes sobre bônus, multiplicadores e penalidades. Por exemplo, "Os jogadores ganham 10 pontos por inimigo derrotado e 50 pontos por completar um nível. Colecionar itens especiais dá pontos de bônus."]*
@@ -242,18 +235,6 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 - **Salvamento:**
 
 
-## 8. Monetização
-
-### 8.1. Modelo de Negócio
-*[Dica: Detalhe o modelo de monetização do jogo. Isso pode incluir compra única, microtransações, assinaturas, DLCs (conteúdo para download), etc. Explique como cada modelo será implementado e por que foi escolhido. Por exemplo, "O jogo será vendido como uma compra única por $19,99, oferecendo acesso completo a todos os níveis e conteúdo. Além disso, haverá microtransações opcionais para comprar itens cosméticos que não afetam a jogabilidade, como skins de personagens e temas de interface. DLCs com novos níveis e missões serão lançados periodicamente para manter o interesse dos jogadores."]*
-- **Modelo:**
-
-### 8.2. Itens Pagos
-*[Dica: Liste os itens ou conteúdos que estarão disponíveis para compra. Inclua detalhes sobre o que cada item oferece e seu preço. Por exemplo, "Os itens pagos incluirão:]*
-1. **Skins de Personagens:** Variações visuais dos personagens principais por R$1,99 cada.
-2. **Pacotes de Moedas:** Moedas do jogo que podem ser usadas para comprar itens e upgrades, disponíveis em pacotes de R$0,99, R$4,99 e R$9,99.
-3. **DLCs:** Pacotes de expansão com novos níveis, missões e personagens por R$9,99 cada."
-- **Itens:**
 
 ## 9. Testes e Qualidade
 
