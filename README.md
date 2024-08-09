@@ -130,7 +130,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*Em uma noite no museu, o *
+*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra*
 - **Resumo:**
 
 ### 3.2. Personagens
