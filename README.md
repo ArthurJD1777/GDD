@@ -107,8 +107,10 @@ Este repositório contém um template completo para um Documento de Design de Jo
 - **Pontuação:**
 
 ### 2.5. Mecânicas de Interação
-*[Dica: Detalhe como os jogadores interagem com o ambiente e outros personagens. Isso pode incluir combates, diálogos, exploração, resolução de puzzles, etc. Por exemplo, "Os jogadores podem conversar com NPCs para obter informações, lutar contra inimigos usando uma combinação de ataques corpo a corpo e mágicos, e resolver puzzles para desbloquear novas áreas."]*
-- **Interação:**
+*Ao passar das fases você vai entrar no elevador, que ira te dar um checkpoint.
+A fase 1 terá um tempo limite para concluia-la, caso não termine, o player ira voltar do inicio.
+A fase 2 será das estatuas que caso, elas te peguem, você volta ao checkpoint
+A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer uma cutscene de derrotada porém caso conclua, aparecera a cutscene de vitoria*
 
 ### 2.6. Sistemas de Progressão e Recompensas
 *[Dica: Explique como o jogador progride no jogo e quais são as recompensas. Isso pode incluir níveis de personagem, habilidades desbloqueáveis, equipamentos, etc. Por exemplo, "Os jogadores ganham pontos de experiência ao derrotar inimigos e completar missões. Ao subir de nível, podem desbloquear novas habilidades e melhorar atributos como força e agilidade."]*
