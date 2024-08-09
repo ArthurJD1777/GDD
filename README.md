@@ -134,6 +134,10 @@ Este repositório contém um template completo para um Documento de Design de Jo
 - **Resumo:**
 
 ### 3.2. Personagens
+1.
+2.
+3.
+4.
 
 
 ### 3.3. Cenários
