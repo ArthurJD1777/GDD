@@ -86,13 +86,19 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 2. Mecânicas de Jogo
 
 ### 2.1. Regras Básicas
-*[Dica: Explique as regras fundamentais do jogo. Isso inclui como o jogo é jogado, as condições de vitória e derrota, e quaisquer restrições importantes. Por exemplo, "Os jogadores devem coletar todos os itens em um nível para avançar para o próximo. Se o jogador perder todas as vidas, o jogo termina."]*
-- **Regras:**
+*Terminar a primeira fase no tempo limite*
+
+*Desviar das estatuas concluir a segunda fase*
+
+*Impedir o ladrão de pegar o diamante e desviar dos lasers*
 
 ### 2.2. Controles
-*[Dica: Descreva os controles básicos para cada plataforma. Inclua todos os botões e ações correspondentes. Por exemplo, para um jogo de plataforma: "No teclado, use as setas para mover, espaço para pular, e 'E' para interagir. No controle do Xbox, use o analógico esquerdo para mover, 'A' para pular, e 'X' para interagir."]*
-- **Controles:**
+  *Os movimentos para andar são Tecla Right para movimentar a direita, Left para diretita, Up para prossseguir e Down para trás*
+  
+  *Para pular aperte Space*
 
+  *Movimentação da camera é com o Mouse*
+  
 ### 2.3. Objetivos e Metas
 *Seu objetivo é pegar o ladrão, passar as fases e chegar ao fim impedindo ele de fugir com o diamante do museu*
 
@@ -128,11 +134,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 - **Resumo:**
 
 ### 3.2. Personagens
-*[Dica: Liste e descreva os personagens principais e suas características. Inclua informações sobre a aparência, personalidade, habilidades e papel na história.]* Por exemplo:
-1. **Herói:** Um jovem corajoso com habilidades mágicas. Determinado e altruísta, ele busca salvar o reino.
-2. **Feiticeiro Maligno:** O antagonista principal, que deseja dominar o mundo com sua magia negra.
-3. **Mentor:** Um sábio ancião que guia o herói em sua jornada, fornecendo conselhos e treinamento.
-4. **Aliados:** Companheiros que ajudam o herói em sua missão, cada um com habilidades únicas.
+
 
 ### 3.3. Cenários
 *[Dica: Descreva os principais cenários e ambientes do jogo. Inclua detalhes sobre a aparência, atmosfera e elementos interativos.]* Por exemplo:
