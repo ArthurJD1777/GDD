@@ -1,4 +1,4 @@
-<p align="center">
+![agentesketch](https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5)<p align="center">
   <img src="https://github.com/user-attachments/assets/84743a21-b19e-42f0-ac32-3614f539d35a">
 
 
@@ -130,14 +130,16 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*[Dica: Apresente um resumo da história principal do jogo. Destaque o enredo principal, incluindo o cenário, o protagonista, o antagonista e o conflito central. Por exemplo, "Em um reino mágico ameaçado por um feiticeiro maligno, um jovem herói deve embarcar em uma jornada épica para coletar artefatos lendários e salvar o mundo."]*
+*Em uma noite no museu, o *
 - **Resumo:**
 
 ### 3.2. Personagens
 1.
+
 2.
+
 3.
-4.
+
 
 
 ### 3.3. Cenários
