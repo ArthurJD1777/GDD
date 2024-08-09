@@ -131,7 +131,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 
 ### 3.1. História Principal
 *Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra*
-- **Resumo:**
+
 
 ### 3.2. Personagens
 1. Agente
@@ -146,7 +146,8 @@ Este repositório contém um template completo para um Documento de Design de Jo
  ![Capturar](https://github.com/user-attachments/assets/88d0fabe-6061-430a-9a1f-b4dad629e78f)
 
 3. Estatuas
-
+  - Estarão presentes na segunda fase, elas irão andar para atrapalhar o jogador do seu objetivo
+    
 ![estatuasketch](https://github.com/user-attachments/assets/c1a469d9-7394-427b-a328-c691d3142763)
 
 
