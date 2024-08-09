@@ -1,4 +1,4 @@
-![agentesketch](https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5)<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/84743a21-b19e-42f0-ac32-3614f539d35a">
 
 
@@ -134,11 +134,20 @@ Este repositório contém um template completo para um Documento de Design de Jo
 - **Resumo:**
 
 ### 3.2. Personagens
-1.
+1. Agente
+   - Ele trabalha como guarda noturno no museu, a visão do jogador será nele. O fazendo protagonista desse jogo
+   
 
-2.
+   <img src="https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5">
+   
+2. Ladrão
+  - Ele será o nosso alvo e objetivo principal, ele ira fugir de nós ao decorrer das fases
 
-3.
+ ![Capturar](https://github.com/user-attachments/assets/88d0fabe-6061-430a-9a1f-b4dad629e78f)
+
+3. Estatuas
+
+![estatuasketch](https://github.com/user-attachments/assets/c1a469d9-7394-427b-a328-c691d3142763)
 
 
 
