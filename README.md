@@ -20,7 +20,6 @@ Este repositório contém um template completo para um Documento de Design de Jo
     2.1. [Regras Básicas](#21-regras-básicas)  
     2.2. [Controles](#22-controles)  
     2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
-    2.4. [Sistema de Pontuação](#24-sistema-de-pontuação)  
     2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)  
     2.6. [Sistemas de Progressão e Recompensas](#26-sistemas-de-progressão-e-recompensas)  
     2.7. [Inteligência Artificial (IA)](#27-inteligência-artificial-ia)  
@@ -127,16 +126,16 @@ A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra*
-
-
+*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra no local, então para não perder o nosso emprego, devemos pega-lo 
+a
+ 
 ### 3.2. Personagens
-1. Agente
+1t. Agente
    - Ele trabalha como guarda noturno no museu, a visão do jogador será nele. O fazendo protagonista desse jogo
    
 
    <img src="https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5">
-   
+  o 
 2. Ladrão
   - Ele será o nosso alvo e objetivo principal, ele ira fugir de nós ao decorrer das fases
 
@@ -163,7 +162,7 @@ A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer
 ### 3.5. Roteiro e Diálogos
 *[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens.]* Por exemplo:<br>
 
-**Herói:** <br>— Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato.<br>
+**Hderói:** <br>— Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato.<br>
 **Mentor:** <br>— Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios.<br>
 **Feiticeiro:** <br>— Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu! <br>
 
@@ -183,7 +182,7 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 
 ### 4.3. Desafios e Puzzles
 *[Dica: Detalhe os principais desafios e puzzles que o jogador encontrará. Explique como esses elementos afetam a jogabilidade e como os jogadores devem superá-los. Por exemplo, "Os jogadores encontrarão portas trancadas que requerem chaves escondidas em áreas secretas. Também haverá puzzles de lógica onde o jogador deve ativar interruptores na ordem correta para abrir passagens."]*
-- **Desafios:**
+- **oDesafios:**
 
 ### 4.4. Fluxo dos Níveis
 *[Dica: Descreva o fluxo e ritmo dos níveis, como os jogadores avançam de um nível para outro. Inclua informações sobre checkpoints, pontos de salvamento e transições entre níveis. Por exemplo, "Cada nível possui dois checkpoints onde o progresso do jogador é salvo automaticamente. Ao final de cada nível, uma cena de transição revela a história e prepara o jogador para o próximo desafio."]*
@@ -240,7 +239,6 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 ### 7.1. Sistema de Progressão
 *[Dica: Explique como o jogador progride no jogo. Isso pode incluir ganho de níveis, habilidades desbloqueáveis, aquisição de equipamentos e avanço na história. Por exemplo, "O jogador ganha pontos de experiência ao derrotar inimigos e completar missões. Esses pontos de experiência permitem que o jogador suba de nível, aumentando atributos como força e agilidade. Novas habilidades e feitiços são desbloqueados a cada nível, oferecendo mais opções estratégicas em combate. Equipamentos e armas melhores podem ser encontrados ou comprados ao longo do jogo, melhorando ainda mais o desempenho do personagem."]*
 - **Progressão:**
-
 ### 7.2. Sistema de Salvamento
 *[Dica: Descreva como e quando o jogo salva o progresso do jogador. Explique os tipos de salvamento disponíveis, como salvamento automático, pontos de salvamento e salvamento manual. Por exemplo, "O jogo utiliza um sistema de salvamento automático que grava o progresso do jogador ao completar missões, alcançar checkpoints e entrar em novas áreas. Além disso, o jogador pode salvar manualmente em qualquer momento através do menu de pausa. Pontos de salvamento especiais, como estatuas mágicas, estão espalhados pelos níveis e oferecem uma maneira adicional de garantir que o progresso não seja perdido."]*
 - **Salvamento:**
@@ -248,7 +246,6 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 
 
 ## 9. Testes e Qualidade
-
 ### 9.1. Testes de Jogo
 *[Dica: Descreva o plano de testes para garantir a qualidade do jogo. Inclua métodos de teste, cronograma, e ferramentas usadas. Por exemplo, "O plano de testes inclui testes alfa e beta, com um grupo seleto de jogadores participando do alfa para encontrar e relatar bugs iniciais. O beta será aberto a um público maior para feedback mais abrangente. Testes automatizados serão usados para verificar a estabilidade do código, enquanto testes manuais garantirão que a jogabilidade esteja de acordo com o design. Sessões de jogo regulares serão realizadas para avaliar o equilíbrio e a diversão do jogo."]*
 - **Plano de Testes:**
@@ -273,3 +270,4 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 6. **Lançamento:** Preparar e lançar a versão final do jogo, incluindo campanhas de marketing e distribuição, até o final do ano."
 - **Próximos Passos:**
 
+ 
