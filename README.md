@@ -102,10 +102,6 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ### 2.3. Objetivos e Metas
 *Seu objetivo é pegar o ladrão, passar as fases e chegar ao fim impedindo ele de fugir com o diamante do museu*
 
-### 2.4. Sistema de Pontuação
-*[Dica: Descreva como os pontos são atribuídos e quais são os critérios de pontuação. Inclua detalhes sobre bônus, multiplicadores e penalidades. Por exemplo, "Os jogadores ganham 10 pontos por inimigo derrotado e 50 pontos por completar um nível. Colecionar itens especiais dá pontos de bônus."]*
-- **Pontuação:**
-
 ### 2.5. Mecânicas de Interação
 *Ao passar das fases você vai entrar no elevador, que ira te dar um checkpoint.
 A fase 1 terá um tempo limite para concluia-la, caso não termine, o player ira voltar do inicio.
@@ -118,8 +114,7 @@ A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer
 - **Recompensas:**
 
 ### 2.7. Inteligência Artificial (IA)
-*[Dica: Descreva o comportamento da IA e como ela interage com o jogador. Isso pode incluir como os inimigos reagem ao jogador, como os NPCs se comportam, etc. Por exemplo, "Os inimigos patrulham áreas específicas e atacam o jogador ao avistá-lo. NPCs podem oferecer missões, dicas ou comerciar itens com o jogador."]*
-- **IA:**
+*A estatuas dda segunda f
 
 ### 2.8. Dinâmicas de Jogo
 *[Dica: Detalhe as dinâmicas de jogo que emergem das mecânicas. Isso inclui como diferentes mecânicas interagem para criar experiências de jogo. Por exemplo, "O sistema de combate interage com o sistema de progressão, permitindo que os jogadores usem habilidades adquiridas em níveis anteriores para derrotar inimigos mais difíceis."]*
@@ -155,19 +150,15 @@ A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer
 
 
 ### 3.3. Cenários
-*[Dica: Descreva os principais cenários e ambientes do jogo. Inclua detalhes sobre a aparência, atmosfera e elementos interativos.]* Por exemplo:
-1. **Floresta Encantada:** Um local misterioso cheio de criaturas mágicas e segredos escondidos.
-2. **Castelo do Feiticeiro:** A fortaleza sombria onde o antagonista reside, repleta de armadilhas e inimigos perigosos.
-3. **Cidade do Herói:** Uma cidade vibrante e movimentada, onde o jogador pode encontrar missões secundárias e itens úteis.
+**Museu**
+1.Labirinto
+
+2.Exposição Das Estatuas
+
+3.Cofre das Joias 
+
 
 ### 3.4. Missões e Quests
-*[Dica: Detalhe as principais missões e quests do jogo, incluindo objetivos e recompensas. Divida as missões principais e secundárias.]* Por exemplo:
-1. **Missão Principal:** Recupere o artefato sagrado do Templo Antigo para impedir o feiticeiro.
-    - **Objetivo:** Encontrar e trazer de volta o artefato.
-    - **Recompensa:** Uma nova habilidade mágica e progresso na história.
-2. **Missão Secundária:** Ajudar o ferreiro da cidade a encontrar materiais raros.
-    - **Objetivo:** Coletar 5 pedaços de minério encantado.
-    - **Recompensa:** Uma espada poderosa e pontos de experiência.
 
 ### 3.5. Roteiro e Diálogos
 *[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens.]* Por exemplo:<br>
