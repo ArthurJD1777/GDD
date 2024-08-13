@@ -21,8 +21,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
     2.2. [Controles](#22-controles)  
     2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
     2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)   
-    2.6. [Dinâmicas de Jogo](#28-dinâmicas-de-jogo)  
-    2.7. [Economia do Jogo](#29-economia-do-jogo)  
+  
 
 3. [Narrativa](#3-narrativa)<br>
     3.1. [História Principal](#31-história-principal)  
@@ -103,17 +102,6 @@ A fase 1 terá um tempo limite para concluia-la, caso não termine, o player ira
 A seguir passará as estatuas que caso, elas te peguem, você volta ao checkpoint
 Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca irá aparecer uma cutscene de derrota, onde o fugitivo escapará com o que pegou, ao concluir aparecerá o mesmo sendo levado pelo segurança, ou seja, a cutscene de vitoria*
 
-
-### 2.7. Inteligência Artificial (IA)
-*A estatuas dda segunda f
-
-### 2.8. Dinâmicas de Jogo
-*[Dica: Detalhe as dinâmicas de jogo que emergem das mecânicas. Isso inclui como diferentes mecânicas interagem para criar experiências de jogo. Por exemplo, "O sistema de combate interage com o sistema de progressão, permitindo que os jogadores usem habilidades adquiridas em níveis anteriores para derrotar inimigos mais difíceis."]*
-- **Dinâmicas:**
-
-### 2.9. Economia do Jogo
-*[Dica: Explique como a economia do jogo funciona, incluindo moedas, recursos, e sistema de comércio. Por exemplo, "Os jogadores ganham ouro ao derrotar inimigos e completar missões. O ouro pode ser usado para comprar armas, armaduras e poções em lojas espalhadas pelo mundo do jogo."]*
-- **Economia:**
 
 ## 3. Narrativa
 
