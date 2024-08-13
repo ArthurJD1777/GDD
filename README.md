@@ -106,7 +106,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*Durante uma noite no museu de arte, um mão-leve tenta roubar a colar da Atlanticâ. Um agente de segurança se surpreende ao ver a invasão, portanto persegue-o pelos andares. Após toda situação, fico cara a cara com ele e a joia. *
+*Durante uma noite no museu de arte, um mão-leve tenta roubar a colar da Atlanticâ. Um agente de segurança se surpreende ao ver a invasão, portanto persegue-o pelos andares. Após toda situação, fico cara a cara com ele e a joia, colocando meu futuro no emprego e a reputação do museu em risco. *
  
 ### 3.2. Personagens
 1t. Agente
