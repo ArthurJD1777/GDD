@@ -20,11 +20,9 @@ Este repositório contém um template completo para um Documento de Design de Jo
     2.1. [Regras Básicas](#21-regras-básicas)  
     2.2. [Controles](#22-controles)  
     2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
-    2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)  
-    2.6. [Sistemas de Progressão e Recompensas](#26-sistemas-de-progressão-e-recompensas)  
-    2.7. [Inteligência Artificial (IA)](#27-inteligência-artificial-ia)  
-    2.8. [Dinâmicas de Jogo](#28-dinâmicas-de-jogo)  
-    2.9. [Economia do Jogo](#29-economia-do-jogo)  
+    2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)   
+    2.6. [Dinâmicas de Jogo](#28-dinâmicas-de-jogo)  
+    2.7. [Economia do Jogo](#29-economia-do-jogo)  
 
 3. [Narrativa](#3-narrativa)<br>
     3.1. [História Principal](#31-história-principal)  
