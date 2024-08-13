@@ -115,11 +115,15 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
    <img src="https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5">
 
 
+
+
   
 2. Ladrão
   - Ele será o nosso alvo e objetivo principal, ele ira fugir de nós ao decorrer das fases
 
   ![Capturar](https://github.com/user-attachments/assets/88d0fabe-6061-430a-9a1f-b4dad629e78f)
+
+
 
 
 
