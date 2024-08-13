@@ -50,7 +50,6 @@ Este repositório contém um template completo para um Documento de Design de Jo
 6. [Áudio](#6-áudio)<br>
     6.1. [Trilha Sonora](#61-trilha-sonora)  
     6.2. [Efeitos Sonoros](#62-efeitos-sonoros)  
-    6.3. [Dublagem](#63-dublagem)  
     6.4. [Ambiente Sonoro](#64-ambiente-sonoro)  
 
 7. [Progresso e Salvamento](#7-progresso-e-salvamento)<br>
@@ -108,9 +107,7 @@ A fase 2 será das estatuas que caso, elas te peguem, você volta ao checkpoint
 A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer uma cutscene de derrotada porém caso conclua, aparecera a cutscene de vitoria*
 
 ### 2.6. Sistemas de Progressão e Recompensas
-*[Dica: Explique como o jogador progride no jogo e quais são as recompensas. Isso pode incluir níveis de personagem, habilidades desbloqueáveis, equipamentos, etc. Por exemplo, "Os jogadores ganham pontos de experiência ao derrotar inimigos e completar missões. Ao subir de nível, podem desbloquear novas habilidades e melhorar atributos como força e agilidade."]*
-- **Progressão:**
-- **Recompensas:**
+
 
 ### 2.7. Inteligência Artificial (IA)
 *A estatuas dda segunda f
@@ -126,14 +123,12 @@ A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra no local, então para não perder o nosso emprego, devemos pega-lo 
-a
+*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra no local, então para não perder o nosso emprego, devemos pega-lo*
  
 ### 3.2. Personagens
 1t. Agente
    - Ele trabalha como guarda noturno no museu, a visão do jogador será nele. O fazendo protagonista desse jogo
    
-
    <img src="https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5">
   o 
 2. Ladrão
@@ -226,9 +221,6 @@ Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas
 *[Dica: Liste os principais efeitos sonoros e seu propósito no jogo. Explique como cada som melhora a jogabilidade e a imersão. Por exemplo, "Os efeitos sonoros incluem o som de passos variados dependendo do terreno, sons de combate como espadas colidindo e feitiços sendo lançados, e efeitos ambientais como vento soprando e água corrente. Esses sons ajudam a criar uma experiência mais realista e envolvente."]*
 - **Efeitos Sonoros:**
 
-### 6.3. Dublagem
-*[Dica: Inclua detalhes sobre a dublagem dos personagens, se aplicável. Descreva como as vozes dos personagens são escolhidas para refletir suas personalidades e papéis na história. Por exemplo, "Os personagens principais têm dubladores profissionais que trazem vida às suas personalidades. O herói tem uma voz jovem e determinada, enquanto o antagonista tem uma voz profunda e ameaçadora. Conversas importantes e cenas cinematográficas são totalmente dubladas para aumentar a imersão."]*
-- **Dublagem:**
 
 ### 6.4. Ambiente Sonoro
 *[Dica: Explique como o som ambiente será utilizado para criar imersão. Descreva os tipos de sons ambientais presentes e como eles contribuem para a atmosfera do jogo. Por exemplo, "O som ambiente inclui ruídos de fundo como canto de pássaros em florestas, ecos misteriosos em cavernas e murmúrios de multidões em cidades. Esses sons ajudam a criar uma sensação de lugar e imersão no mundo do jogo, fazendo o jogador sentir que está realmente lá."]*
