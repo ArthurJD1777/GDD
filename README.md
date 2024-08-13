@@ -106,7 +106,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 ## 3. Narrativa
 
 ### 3.1. História Principal
-*Em uma noite no museu, um ladrão invade na intenção de roubar a joia da atlanticâ, uma joia famosa e cara que se encontra no local, então para não perder o nosso emprego, devemos pega-lo*
+*Durante uma noite no museu de arte, um mão-leve tenta roubar a colar da Atlanticâ. Um agente de segurança se surpreende ao ver a invasão, portanto persegue-o pelos andares. Após toda situação, fico cara a cara com ele e a joia. *
  
 ### 3.2. Personagens
 1t. Agente
