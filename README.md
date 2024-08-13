@@ -84,21 +84,22 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 2. Mecânicas de Jogo
 
 ### 2.1. Regras Básicas
-*Terminar a primeira fase no tempo limite*
+*Terminar a primeira fase no tempo limite e coletar todas as chaves espalhadas pelo labirinto para que assim consiga abrir as portas das galerias de arte.*
 
 *Desviar das estatuas concluir a segunda fase*
 
-*Impedir o ladrão de pegar o diamante e desviar dos lasers*
+*Impedir o ladrão de fugir com o diamante e desviar dos lasers*
 
 ### 2.2. Controles
-  *Os movimentos para andar são Tecla Right para movimentar a direita, Left para diretita, Up para prossseguir e Down para trás*
+  *Os movimentos para andar são Tecla Right para movimentar a direita, Left para esquerda, Up para prossseguir e Down para trás*
   
   *Para pular aperte Space*
 
   *Movimentação da camera é com o Mouse*
   
 ### 2.3. Objetivos e Metas
-*Seu objetivo é pegar o ladrão, passar as fases e chegar ao fim impedindo ele de fugir com o diamante do museu*
+*Seu objetivo é pegar o ladrão, chegar ao fim impedindo ele de fugir com o diamante do museu.*
+*Suas metas são cumprir as devidas missões, assim conhecendo cada ambiente, para capturar o fugitivo com facilidade.*
 
 ### 2.5. Mecânicas de Interação
 *Ao passar das fases você vai entrar no elevador, que ira te dar um checkpoint.
