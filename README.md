@@ -92,9 +92,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 
 ### 2.2. Controles
   *Os movimentos para andar são Tecla Right para movimentar a direita, Left para esquerda, Up para prossseguir e Down para trás*
-  
   *Para pular aperte Space*
-
   *Movimentação da camera é com o Mouse*
   
 ### 2.3. Objetivos e Metas
@@ -104,10 +102,8 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ### 2.5. Mecânicas de Interação
 *Ao passar das fases você vai entrar no elevador, que ira te dar um checkpoint.
 A fase 1 terá um tempo limite para concluia-la, caso não termine, o player ira voltar do inicio.
-A fase 2 será das estatuas que caso, elas te peguem, você volta ao checkpoint
-A fase 3 terá a mesma mecanica do 2, porem com lasers e caso perca ira aparecer uma cutscene de derrotada porém caso conclua, aparecera a cutscene de vitoria*
-
-### 2.6. Sistemas de Progressão e Recompensas
+A seguir passará as estatuas que caso, elas te peguem, você volta ao checkpoint
+Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca irá aparecer uma cutscene de derrota, onde o fugitivo escapará com o que pegou, ao concluir aparecerá o mesmo sendo levado pelo segurança, ou seja, a cutscene de vitoria*
 
 
 ### 2.7. Inteligência Artificial (IA)
