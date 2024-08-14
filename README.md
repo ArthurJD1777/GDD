@@ -187,8 +187,10 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 - **Mapas:**
 
 ### 4.3. Desafios e Puzzles
-*[Dica: Detalhe os principais desafios e puzzles que o jogador encontrará. Explique como esses elementos afetam a jogabilidade e como os jogadores devem superá-los. Por exemplo, "Os jogadores encontrarão portas trancadas que requerem chaves escondidas em áreas secretas. Também haverá puzzles de lógica onde o jogador deve ativar interruptores na ordem correta para abrir passagens."]*
 - **oDesafios:**
+- Puzzles de portas trancadas: As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.
+- Desafio contra o tempo: Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.
+
 
 ### 4.4. Fluxo dos Níveis
 *[Dica: Descreva o fluxo e ritmo dos níveis, como os jogadores avançam de um nível para outro. Inclua informações sobre checkpoints, pontos de salvamento e transições entre níveis. Por exemplo, "Cada nível possui dois checkpoints onde o progresso do jogador é salvo automaticamente. Ao final de cada nível, uma cena de transição revela a história e prepara o jogador para o próximo desafio."]*
