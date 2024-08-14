@@ -147,14 +147,17 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 **1. Missão principal:** Proteger o Colar da Atlântica. 
 **Objetivo:** O agente deve percorrer o museu para garantir que a joia permaneça segura, desativando armadilhas para impedir o avanço do ladrão.
-**2. Missão secundária:** A perseguição no labirinto
-**Objetivo:** navegar pelo labirinto dentro do musu, evitando os obstáculos e perseguindo-o que tenta roubar as obras e escapar para o segundo andar.
+
+**2. Missão secundária:** A perseguição no labirinto.
+**Objetivo:** Navegar pelo labirinto dentro do museu, evitando os obstáculos e perseguindo-o, que tenta roubar as obras e escapar para o segundo andar.
 **Recompensa:** Progresso na história.
-**3. Missão secundária:** Sala das estátuas
+
+**3. Missão secundária:** Sala das estátuas.
 **Objetivo:** Superar as estátuas em movimento, onde o ladrão tenta se esconder. O agente deve ser astuto para desativar o mecanismo para passar para a fase seguinte.
 **Recompensa:** Avanço na narrativa, levando ao confronto final.
-**4. Missão secundária:** O cofre a laser
-**Objetivo:** Entrar pela sala de segurança final, repleta de lasers. Desativar o sistema e recuperar o colar de Atlantica.
+
+**4. Missão secundária:** O cofre a laser.
+**Objetivo:** Entrar pela sala de segurança final, repleta de lasers. Desativar o sistema e recuperar o colar de Atlântica.
 **Recompensa:** Vitória ou derrota sobre o ladrão, recuperação do artefato e a honra de salvar o Museu da Cidade.
 
 
