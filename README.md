@@ -20,7 +20,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
     2.1. [Regras Básicas](#21-regras-básicas)  
     2.2. [Controles](#22-controles)  
     2.3. [Objetivos e Metas](#23-objetivos-e-metas)  
-    2.5. [Mecânicas de Interação](#25-mecânicas-de-interação)   
+    2.4. [Mecânicas de Interação](#25-mecânicas-de-interação)   
   
 
 3. [Narrativa](#3-narrativa)<br>
@@ -96,7 +96,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 *Seu objetivo é pegar o ladrão, chegar ao fim impedindo ele de fugir com o diamante do museu.*
 *Suas metas são cumprir as devidas missões, assim conhecendo cada ambiente, para capturar o fugitivo com facilidade.*
 
-### 2.5. Mecânicas de Interação
+### 2.4. Mecânicas de Interação
 *Ao passar das fases você vai entrar no elevador, que ira te dar um checkpoint.
 A fase 1 terá um tempo limite para concluia-la, caso não termine, o player ira voltar do inicio.
 A seguir passará as estatuas que caso, elas te peguem, você volta ao checkpoint
@@ -164,8 +164,23 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 ## 4. Design de Níveis
 
 ### 4.1. Estrutura dos Níveis
-*[Dica: Explique a estrutura e progressão dos níveis. Descreva como os níveis são organizados e como o jogador avança de um nível para o outro. Por exemplo, "O jogo é dividido em 10 níveis principais, cada um com uma série de sub-níveis ou áreas. O jogador deve completar objetivos específicos em cada nível para desbloquear o próximo. O nível final culmina em uma batalha contra o chefe principal."]*
-- **Estrutura:**
+**Estrura:** 
+**Nível 1:** O labirinto
+Este nível é ambientado em uma seção labiríntica, com corredores estreitos e armadilhas escondidas. O objetivo é desorientar tanto o ladrão quanto o agente.
+    **Sub-níveis:** a. Entrada: o jogador deve se familiarizar com os controles e mecânicas do jogo.
+                    b. Progressão: Percorrer por toda a área para encontrar as chaves que vão desbloquear as portas do caminho para a próxima fase.
+
+**Nível 2:** As estátuas
+Este nível é ambientado em uma galeria cheia de estátuas que ganham vida quando o jogador se aproxima. A sala é uma armadilha que o ladrão tenta usar a seu favor.
+     **Sub-níveis:** a. Entrada: Introduz o conceito das estátuas móveis, onde o jogador deve se esquivar e usar a mecânica de iluminação para avançar.
+                     b. Progressão: Ao derrotar as estátuas elas são desativadas novamente e libera a entrada para o elevador.
+
+**Nível 3:** Sala de lasers
+O nível final acontece na sala de segurança máxima, cheia de lasers e dispositivos de vigilância. Acontece o confronto decisivo entre os personagens.
+    **Sub-níveis:**  a. Entrada: É necessário evitar os sensoresde movimento e ultrapassar os raios para chegar perto do cofre.
+                     b. Progressão: Após completar este nível a história é concluída por conseguir desativar os lasers, por recuperar a joia e prender o ladrão.
+    
+
 
 ### 4.2. Mapas e Layouts
 *[Dica: Inclua esboços ou descrições dos mapas e layouts dos níveis. Forneça detalhes sobre a disposição dos elementos no nível, como áreas exploráveis, inimigos, itens e obstáculos. Por exemplo, "O layout do primeiro nível inclui uma área inicial segura, seguida por uma série de plataformas sobre um abismo, com inimigos posicionados em pontos estratégicos e itens escondidos em áreas de difícil acesso."]*
