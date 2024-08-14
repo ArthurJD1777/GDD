@@ -28,7 +28,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
     3.2. [Personagens](#32-personagens)  
     3.3. [Cenários](#33-cenários)  
     3.4. [Missões e Quests](#34-missões-e-quests)  
-    3.5. [Roteiro e Diálogos](#35-roteiro-e-diálogos)  
+   
 
 4. [Design de Níveis](#4-design-de-níveis)<br>
     4.1. [Estrutura dos Níveis](#41-estrutura-dos-níveis)  
@@ -145,16 +145,8 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 ### 3.4. Missões e Quests
 
-### 3.5. Roteiro e Diálogos
-*[Dica: Inclua trechos de diálogos importantes e o roteiro geral do jogo. Destaque as conversas chave que avançam a história e desenvolvem os personagens.]* Por exemplo:<br>
 
-**Hderói:** <br>— Não posso deixar o feiticeiro destruir tudo o que amamos. Eu preciso encontrar o artefato.<br>
-**Mentor:** <br>— Lembre-se, jovem herói, o poder verdadeiro vem de dentro. Use sua coragem e sabedoria para superar os desafios.<br>
-**Feiticeiro:** <br>— Vocês nunca poderão me deter! Meu poder é absoluto e o mundo será meu! <br>
 
-Descreva também a estrutura geral do roteiro, incluindo cenas cinematográficas e eventos importantes.
-
-- **Diálogos:**
 
 ## 4. Design de Níveis
 
