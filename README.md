@@ -305,17 +305,33 @@ O som ambiente em Chase Fugitive inclui murmúrios suaves e passos abafados nas 
 ## 10. Conclusão
 
 ### 10.1. Sumário
-*[Dica: Resuma os principais pontos do GDD. Isso deve incluir uma visão geral rápida das mecânicas de jogo, narrativa, design de níveis, arte e estilo visual, áudio, progresso e salvamento, monetização, e testes e qualidade. Por exemplo, "Este GDD detalha um RPG de ação com uma narrativa envolvente sobre um herói que deve salvar seu reino de um feiticeiro maligno. O jogo apresenta mecânicas de combate dinâmico, progressão de personagem através de níveis e habilidades, e uma rica trilha sonora orquestral. A arte em pixel art e os efeitos sonoros imersivos contribuem para uma experiência de jogo memorável."]*
+
 - **Sumário:**
+Este GDD descreve Chase Fugitive, um jogo de ação ambientado em um museu. O jogador, no papel de um segurança, deve passar obstáculos, infiltrar-se e recuperar artefatos valiosos, enfrentando desafios em áreas como galerias, segurança e salas de estátuas. A arte é cartunesca, com cores elegantes e tons metálicos, enquanto a trilha sonora mistura elementos orquestrais e eletrônicos, acompanhada por efeitos sonoros variados.
+
+O progresso é salvo automaticamente, com pontos de salvamento.O plano de testes envolve fases alfa e beta, utilizando métodos automatizados e algumas pesquisas para garantir estabilidade do jogo.
 
 ### 10.2. Próximos Passos
-*[Dica: Liste as próximas etapas no desenvolvimento do jogo. Inclua marcos importantes e um cronograma aproximado. Por exemplo, "Os próximos passos no desenvolvimento do jogo incluem:]*
-1. **Prototipagem:** Criar protótipos jogáveis das principais mecânicas de jogo até o final do mês.
-2. **Desenvolvimento Alfa:** Desenvolver a primeira versão completa do jogo com todos os níveis e mecânicas principais até o final do trimestre.
-3. **Teste Alfa:** Realizar testes internos e com um grupo seleto de jogadores para identificar e corrigir bugs.
-4. **Desenvolvimento Beta:** Refinar o jogo com base no feedback dos testes alfa e adicionar conteúdo adicional até o final do segundo trimestre.
-5. **Teste Beta:** Abrir o jogo para testes beta públicos e coletar feedback abrangente.
-6. **Lançamento:** Preparar e lançar a versão final do jogo, incluindo campanhas de marketing e distribuição, até o final do ano."
-- **Próximos Passos:**
 
+- **Próximos Passos:**
+- Prototipagem (de agosto até a metade de setembro):
+  - até o fim de agosto: Desenvolver protótipos das mecânicas principais.
+  - duas primeiras semanas de setembro: Testar e ajustar protótipos com feedback interno.
+
+-  Alfa ( de setembro à metade de outubro):
+  - fim de setembro:Desenvolver os principais níveis e mecânicas.
+  - começo de outubro: Integrar arte, áudio e funcionalidades completas.
+  -fim de outubro: Finalizar a versão alfa e preparar para testes internos.
+
+-  Alfa (outubro):
+  -  Realizar testes internos com a equipe e um grupo seleto.
+  -  Corrigir bugs e ajustar 
+
+-  Beta (novembro):
+  - Refinar o jogo com base no feedback alfa
+  -  Testar novas funcionalidades e realizar ajustes finais.
+
+- Beta (11 a 15 de novembro):  
+  - 11 a 12 de novembro:Lançar o jogo para testes beta públicos e coletar feedback.
+  - 13 a 15 de novembro:Analisar o feedback e realizar ajustes finais.
  
