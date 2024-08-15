@@ -203,8 +203,7 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 
 
 ### 4.2. Mapas e Layouts
-*[Dica: Inclua esboços ou descrições dos mapas e layouts dos níveis. Forneça detalhes sobre a disposição dos elementos no nível, como áreas exploráveis, inimigos, itens e obstáculos. Por exemplo, "O layout do primeiro nível inclui uma área inicial segura, seguida por uma série de plataformas sobre um abismo, com inimigos posicionados em pontos estratégicos e itens escondidos em áreas de difícil acesso."]*
-- **Mapas:**
+ **Mapas:**
 
 ### 4.3. Desafios e Puzzles
 - **oDesafios:**
