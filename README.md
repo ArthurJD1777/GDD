@@ -140,22 +140,26 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 1.Labirinto
 
-- Externo
+- *Externo*
 ![Screenshot_20240814-223226 (1).png](https://github.com/user-attachments/assets/1965111c-e309-4f67-b542-72b16b504db8)
+
+- *Exterior*
+![18 Sem Título.png](https://github.com/user-attachments/assets/063d73e5-7809-49ff-a691-b0f2c3d44737
 
 
 2.Exposição Das Estatuas
 
-- Interior
+- *Interior*
 ![Screenshot_20240814-223240 (1).png](https://github.com/user-attachments/assets/c40059d3-1f7f-4b38-bfac-9c4bb420feee)
 
 
 
 3.Cofre das Joias 
-- Exterior
+
+- *Exterior*
 ![Screenshot_20240814-223255 (1).png](https://github.com/user-attachments/assets/e1b6aa27-8179-4b48-be87-769112137dfb)
 
-- Interior
+- *Interior*
 ![Screenshot_20240814-223307 (1).png](https://github.com/user-attachments/assets/8b703cc5-c684-43a3-b6d3-63381c55f8a6)
 
 
