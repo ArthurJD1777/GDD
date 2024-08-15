@@ -135,10 +135,14 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 
 ### 3.3. Cenários
+
 **Museu**
+
 1.Labirinto
 
+
 2.Exposição Das Estatuas
+
 
 3.Cofre das Joias 
 
