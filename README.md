@@ -144,7 +144,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 ![Screenshot_20240814-223226 (1).png](https://github.com/user-attachments/assets/1965111c-e309-4f67-b542-72b16b504db8)
 
 - *Interior*
-img src="https://github.com/user-attachments/assets/063d73e5-7809-49ff-a691-b0f2c3d44737"
+<img src="https://github.com/user-attachments/assets/063d73e5-7809-49ff-a691-b0f2c3d44737">
 
 
 2.Exposição Das Estatuas
