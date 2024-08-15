@@ -145,6 +145,10 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 2.Exposição Das Estatuas
 
+- Interior
+![Screenshot_20240814-223240 (1).png](https://github.com/user-attachments/assets/c40059d3-1f7f-4b38-bfac-9c4bb420feee)
+
+
 
 3.Cofre das Joias 
 
