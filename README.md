@@ -260,17 +260,20 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 ## 6. Áudio
 
 ### 6.1. Trilha Sonora
-*[Dica: Descreva o estilo e os principais temas da trilha sonora. Explique como a música contribui para a atmosfera do jogo e destaca momentos importantes. Por exemplo, "A trilha sonora é composta por músicas orquestrais épicas que variam de temas calmos e misteriosos para momentos de exploração, a composições intensas e enérgicas durante batalhas. Cada área do jogo tem um tema musical único que reflete seu ambiente e importância na história."]*
+
 - **Trilha Sonora:**
+A trilha sonora combina estilos orquestral e eletrônico, criando uma atmosfera sofisticada. Nas áreas de exposição, as músicas são elegantes, com cordas e piano, refletindo a tranquilidade e o luxo das galerias. Nas zonas de segurança, a trilha sonora se torna mais eletrônica e tensa, com batidas fortes que aumentam a sensação de perigo. Durante as perseguições, as músicas são rápidas e energéticas, intensificando a urgência e a emoção dos desafios. A música acompanha cada ambiente e momento, contribuindo para a imersão total no jogo.
 
 ### 6.2. Efeitos Sonoros
-*[Dica: Liste os principais efeitos sonoros e seu propósito no jogo. Explique como cada som melhora a jogabilidade e a imersão. Por exemplo, "Os efeitos sonoros incluem o som de passos variados dependendo do terreno, sons de combate como espadas colidindo e feitiços sendo lançados, e efeitos ambientais como vento soprando e água corrente. Esses sons ajudam a criar uma experiência mais realista e envolvente."]*
+
 - **Efeitos Sonoros:**
+Os principais efeitos sonoros incluem sons de passos que variam conforme o terreno, alarmes de segurança que aumentam a urgência, e sons mecânicos para a abertura de portas e cofres, indicando progresso. O movimento das estátuas é acompanhado por sons pesados, criando uma atmosfera de mistério. Durante perseguições, os sons de passos rápidos e respiração pesada elevam a adrenalina. Efeitos ambientais como ecos e murmúrios ajudam a aprofundar a imersão no ambiente do museu.
 
 
-### 6.4. Ambiente Sonoro
-*[Dica: Explique como o som ambiente será utilizado para criar imersão. Descreva os tipos de sons ambientais presentes e como eles contribuem para a atmosfera do jogo. Por exemplo, "O som ambiente inclui ruídos de fundo como canto de pássaros em florestas, ecos misteriosos em cavernas e murmúrios de multidões em cidades. Esses sons ajudam a criar uma sensação de lugar e imersão no mundo do jogo, fazendo o jogador sentir que está realmente lá."]*
+### 6.3. Ambiente Sonoro
+
 - **Som Ambiente:**
+O som ambiente em Chase Fugitive inclui murmúrios suaves e passos abafados nas galerias, correntes de ar e ecos nas salas de estátuas, e zumbidos de sistemas eletrônicos nas áreas de segurança. Durante perseguições, respirações ofegantes e batimentos cardíacos baixos aumentam a tensão.
 
 ## 7. Progresso e Salvamento
 
