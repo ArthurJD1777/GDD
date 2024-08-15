@@ -224,31 +224,37 @@ Transições:
 Cenas de Transição: Após completar um nível principal, uma cena curta é revelada e então prepara o jogador para o próximo desafio.
 
 ### 4.5. Balanceamento de Dificuldade
-*[Dica: Explique como a dificuldade dos níveis será balanceada. Discuta o aumento gradual da dificuldade e como isso é implementado para manter o jogo desafiador mas justo. Por exemplo, "A dificuldade aumenta gradualmente com mais inimigos e puzzles mais complexos à medida que o jogador progride. O primeiro nível é projetado para ser introdutório, enquanto os níveis finais apresentam desafios que exigem domínio completo das mecânicas do jogo."]*
-- **Dificuldade:**
+-  O primeiro nível ensina o básico.
+-  A dificuldade cresce com mais armadilhas e mais inimigos complexos.
+-  Puzzles exigem decisões rápidas.
+- Checkpoints e dicas evitam frustração, mantendo o jogo desafiador, mas justo.
 
 
 ## 5. Arte e Estilo Visual
 
 ### 5.1. Estilo Artístico
-*[Dica: Descreva o estilo artístico geral do jogo. Explique como a estética do jogo se alinha com a temática e o gênero. Por exemplo, "O estilo artístico do jogo é baseado em pixel art, com uma paleta de cores vibrantes que lembra jogos retro dos anos 90. Isso ajuda a criar uma sensação de nostalgia enquanto mantém o visual moderno e polido."]*
-- **Estilo:**
+O jogo usa gráficos 3D realistas com cores intensas e com contraste. O ambiente do museu é detalhado e elegante, com sombras e iluminação que destacam o suspense e a ação. Elementos futuristas, como lasers, se misturam ao visual moderno, alinhando-se ao tema de roubo e perseguição.
 
 ### 5.2. Personagens e Animações
-*[Dica: Inclua detalhes sobre a arte e animações dos personagens. Descreva o design visual, trajes, expressões faciais e movimentos. Por exemplo, "Os personagens principais são desenhados em um estilo cartunesco com traços exagerados para expressar emoções de forma clara. As animações incluem movimentos de corrida, salto, ataque e ações especiais, todas fluídas e responsivas para melhorar a experiência de jogo."]*
-- **Arte dos Personagens:**
+Os personagens são desenhados em 3D. O agente de segurança do prédio veste um traje azul escuro com acessórios prateados e dourados, transmitindo seriedade e profissionalismo. O ladrão usa um traje laranja vibrante, ágil e furtivo, refletindo sua natureza astuta. 
+As expressões faciais são sutis, mas eficazes, transmitindo emoções como determinação ou surpresa. As animações são fluidas e incluem movimentos de corrida, salto e esquiva.
 
 ### 5.3. Cenários e Ambientes
-*[Dica: Descreva a arte dos cenários e ambientes. Inclua detalhes sobre os elementos visuais, iluminação e atmosfera. Por exemplo, "Os cenários são detalhados com camadas de fundo para criar profundidade. Cada ambiente, como florestas, cavernas e castelos, tem uma estética única com iluminação dinâmica para realçar a atmosfera mágica e misteriosa do jogo."]*
-- **Arte dos Cenários:**
+Cada seção do museu, desde as elegantes galerias de arte até os corredores de segurança ultramodernos, apresenta um visual distinto. A iluminação varia conforme o ambiente, em áreas de exposição dos quadros são iluminadas com luzes suaves que destacam a beleza das obras, enquanto as zonas de segurança são envoltas em sombras e luzes dramáticas que aumentam a tensão.
+
 
 ### 5.4. Interface do Usuário (UI)
-*[Dica: Detalhe o design da interface do usuário, incluindo menus e HUD. Explique como a interface é intuitiva e fácil de navegar. Por exemplo, "A interface do usuário apresenta um design limpo com ícones grandes e texto legível. O HUD inclui barra de vida, mana, e um mini-mapa, todos posicionados de forma a não obstruir a visão do jogador. Os menus são simples, com opções claras para facilitar a navegação."]*
-- **Interface:**
+- HUD: O HUD exibe informações essenciais como um mini-mapa que aparece no canto inferior direito. Esses elementos são discretos, garantindo que não obstruam a visão durante a jogabilidade.
+- Menus: Os menus têm um design limpo com ícones grandes e texto legível. As opções são organizadas de forma clara, com categorias como "Configurações," "Inventário," facilitando a navegação.
 
 ### 5.5. Paleta de Cores
-*[Dica: Especifique a paleta de cores a ser usada no jogo. Explique como as cores escolhidas influenciam a atmosfera e a experiência do jogador. Por exemplo, "A paleta de cores do jogo inclui tons vibrantes de verde e azul para ambientes exteriores, e tons mais escuros e misteriosos de roxo e preto para áreas perigosas, criando um contraste visual que ajuda a orientar o jogador e a definir o tom de cada nível."]*
+
 - **Paleta de Cores:**
+• Exposições: Bege, marrom e dourado transmitem a sofisticação das galerias de arte e artefatos antigos, destacando a elegância dos ambientes.
+
+• Segurança: Cinza escuro, prata, refletem a atmosfera de uma sala de museu com várias estátuas, criando um visual de segurança.
+
+• Cofre: Vermelho e laranja intensificam a urgência e a tensão durante os momentos de ação e perseguições.
 
 
 ## 6. Áudio
