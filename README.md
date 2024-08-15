@@ -139,7 +139,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 **Museu**
 
 1.Labirinto
-- Cima
+- Externo
 ![Screenshot_20240814-223226 (1).png](https://github.com/user-attachments/assets/1965111c-e309-4f67-b542-72b16b504db8)
 
 
