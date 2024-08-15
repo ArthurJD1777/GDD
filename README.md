@@ -213,8 +213,15 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 
 
 ### 4.4. Fluxo dos Níveis
-*[Dica: Descreva o fluxo e ritmo dos níveis, como os jogadores avançam de um nível para outro. Inclua informações sobre checkpoints, pontos de salvamento e transições entre níveis. Por exemplo, "Cada nível possui dois checkpoints onde o progresso do jogador é salvo automaticamente. Ao final de cada nível, uma cena de transição revela a história e prepara o jogador para o próximo desafio."]*
-- **Fluxo:**
+-Níveis: Cada nível principal é dividido em três sub-níveis, cada um com objetivos específicos que o jogador precisa completar para avançar.
+Checkpoints: Cada sub-nível possui dois checkpoints onde o progresso é salvo automaticamente, garantindo que o jogador não precise refazer grandes partes do jogo se falhar.
+
+Pontos de Salvamento:Salvamento Automático: O jogo salva automaticamente ao final de cada sub-nível, garantindo que o progresso seja mantido após completar desafios importantes.
+
+Ritmo de Jogo:Sequências de Ação e Puzzles: O ritmo alterna entre momentos de ação intensa, como fugir de armadilhas ou perseguir o ladrão, e momentos de resolução de puzzles, criando uma experiência equilibrada.
+
+Transições: 
+Cenas de Transição: Após completar um nível principal, uma cena curta é revelada e então prepara o jogador para o próximo desafio.
 
 ### 4.5. Balanceamento de Dificuldade
 *[Dica: Explique como a dificuldade dos níveis será balanceada. Discuta o aumento gradual da dificuldade e como isso é implementado para manter o jogo desafiador mas justo. Por exemplo, "A dificuldade aumenta gradualmente com mais inimigos e puzzles mais complexos à medida que o jogador progride. O primeiro nível é projetado para ser introdutório, enquanto os níveis finais apresentam desafios que exigem domínio completo das mecânicas do jogo."]*
