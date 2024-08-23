@@ -165,40 +165,59 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 ### 3.4. Missões e Quests
 
-**1. Missão principal:** Proteger o Colar da Atlântica. 
-**Objetivo:** O agente deve percorrer o museu para garantir que a joia permaneça segura, desativando armadilhas para impedir o avanço do ladrão.
+**1. Missão principal:** 
+*Proteger o Colar da Atlântica.*
+
+**Objetivo:** 
+*O agente deve percorrer o museu para garantir que a joia permaneça segura, desativando armadilhas para impedir o avanço do ladrão.*
 
 **2. Missão secundária:** A perseguição no labirinto.
-**Objetivo:** Navegar pelo labirinto dentro do museu, evitando os obstáculos e perseguindo-o, que tenta roubar as obras e escapar para o segundo andar.
-**Recompensa:** Progresso na história.
 
-**3. Missão secundária:** Sala das estátuas.
-**Objetivo:** Superar as estátuas em movimento, onde o ladrão tenta se esconder. O agente deve ser astuto para desativar o mecanismo para passar para a fase seguinte.
-**Recompensa:** Avanço na narrativa, levando ao confronto final.
+**Objetivo:**
+*Navegar pelo labirinto dentro do museu, evitando os obstáculos e perseguindo-o, que tenta roubar as obras e escapar para o segundo andar.*
 
-**4. Missão secundária:** O cofre a laser.
-**Objetivo:** Entrar pela sala de segurança final, repleta de lasers. Desativar o sistema e recuperar o colar de Atlântica.
-**Recompensa:** Vitória ou derrota sobre o ladrão, recuperação do artefato e a honra de salvar o Museu da Cidade.
+**Recompensa:** 
+*Progresso na história.*
+
+**3. Missão secundária: Sala das estátuas.**
+
+**Objetivo:** 
+*Superar as estátuas em movimento, onde o ladrão tenta se esconder. O agente deve ser astuto para desativar o mecanismo para passar para a fase seguinte.*
+
+**Recompensa:** 
+*Avanço na narrativa, levando ao confronto final.*
+
+**4. Missão secundária: O cofre a laser.**
+
+**Objetivo:** 
+*Entrar pela sala de segurança final, repleta de lasers. Desativar o sistema e recuperar o colar de Atlântica.*
+
+**Recompensa:** 
+*Vitória ou derrota sobre o ladrão, recuperação do artefato e a honra de salvar o Museu da Cidade.*
 
 
 ## 4. Design de Níveis
 
 ### 4.1. Estrutura dos Níveis
 **Estrura:** 
+
 **Nível 1:** O labirinto
 Este nível é ambientado em uma seção labiríntica, com corredores estreitos e armadilhas escondidas. O objetivo é desorientar tanto o ladrão quanto o agente.
-    **Sub-níveis:** a. Entrada: o jogador deve se familiarizar com os controles e mecânicas do jogo.
-                    b. Progressão: Percorrer por toda a área para encontrar as chaves que vão desbloquear as portas do caminho para a próxima fase.
+ 
+    a. Entrada: o jogador deve se familiarizar com os controles e mecânicas do jogo.
+    b. Progressão: Percorrer por toda a área para encontrar as chaves que vão desbloquear as portas do caminho para a próxima fase.
 
 **Nível 2:** As estátuas
 Este nível é ambientado em uma galeria cheia de estátuas que ganham vida quando o jogador se aproxima. A sala é uma armadilha que o ladrão tenta usar a seu favor.
-     **Sub-níveis:** a. Entrada: Introduz o conceito das estátuas móveis, onde o jogador deve se esquivar e usar a mecânica de iluminação para avançar.
-                     b. Progressão: Ao derrotar as estátuas elas são desativadas novamente e libera a entrada para o elevador.
+      
+     a. Entrada: Introduz o conceito das estátuas móveis, onde o jogador deve se esquivar e usar a mecânica de iluminação para avançar.
+     b. Progressão: Ao derrotar as estátuas elas são desativadas novamente e libera a entrada para o elevador.
 
 **Nível 3:** Sala de lasers
 O nível final acontece na sala de segurança máxima, cheia de lasers e dispositivos de vigilância. Acontece o confronto decisivo entre os personagens.
-    **Sub-níveis:**  a. Entrada: É necessário evitar os sensoresde movimento e ultrapassar os raios para chegar perto do cofre.
-                     b. Progressão: Após completar este nível a história é concluída por conseguir desativar os lasers, por recuperar a joia e prender o ladrão.
+   
+    a. Entrada: É necessário evitar os sensoresde movimento e ultrapassar os raios para chegar perto do cofre.
+    b. Progressão: Após completar este nível a história é concluída por conseguir desativar os lasers, por recuperar a joia e prender o ladrão.
     
 
 
