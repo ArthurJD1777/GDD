@@ -125,13 +125,23 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 
 
+# Modelagens
 
+## Policial
 
-3. Estatuas
-  - Estarão presentes na segunda fase, elas irão andar para atrapalhar o jogador do seu objetivo
-    
-![estatuasketch](https://github.com/user-attachments/assets/c1a469d9-7394-427b-a328-c691d3142763)
+![Captura de tela 2024-10-29 082511](https://github.com/user-attachments/assets/e8c35a02-fbfc-48d0-aafe-deb725af1d0e)
 
+![Captura de tela 2024-10-29 082550](https://github.com/user-attachments/assets/838b1c83-b432-4dee-8939-93f548e9c7de)
+
+![oi](https://github.com/user-attachments/assets/da82c3ef-7f11-4592-8bff-029636f0d6ef)
+
+## Ladrão
+
+![WhatsApp Image 2024-10-20 at 14 10 29](https://github.com/user-attachments/assets/1168dc32-7f07-4d17-b5aa-3889e794b379)
+
+![WhatsApp Image 2024-10-20 at 14 10 19](https://github.com/user-attachments/assets/780a705d-71b4-4a2c-9a29-20ce7a33ef5f)
+
+![WhatsApp Image 2024-10-20 at 14 10 09](https://github.com/user-attachments/assets/d6945899-525e-4e83-bc91-8bccfb10eb03)
 
 
 ### 3.3. Cenários
