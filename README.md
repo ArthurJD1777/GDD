@@ -290,18 +290,16 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 ### 6.1. Trilha Sonora
 
 - **Trilha Sonora:**
-A trilha sonora combina estilos orquestral e eletrônico, criando uma atmosfera sofisticada. Nas áreas de exposição, as músicas são elegantes, com cordas e piano, refletindo a tranquilidade e o luxo das galerias. Nas zonas de segurança, a trilha sonora se torna mais eletrônica e tensa, com batidas fortes que aumentam a sensação de perigo. Durante as perseguições, as músicas são rápidas e energéticas, intensificando a urgência e a emoção dos desafios. A música acompanha cada ambiente e momento, contribuindo para a imersão total no jogo.
+
 
 ### 6.2. Efeitos Sonoros
 
 - **Efeitos Sonoros:**
-Os principais efeitos sonoros incluem sons de passos que variam conforme o terreno, alarmes de segurança que aumentam a urgência, e sons mecânicos para a abertura de portas e cofres, indicando progresso. O movimento das estátuas é acompanhado por sons pesados, criando uma atmosfera de mistério. Durante perseguições, os sons de passos rápidos e respiração pesada elevam a adrenalina. Efeitos ambientais como ecos e murmúrios ajudam a aprofundar a imersão no ambiente do museu.
 
 
 ### 6.3. Ambiente Sonoro
 
 - **Som Ambiente:**
-O som ambiente em Chase Fugitive inclui murmúrios suaves e passos abafados nas galerias, correntes de ar e ecos nas salas de estátuas, e zumbidos de sistemas eletrônicos nas áreas de segurança. Durante perseguições, respirações ofegantes e batimentos cardíacos baixos aumentam a tensão.
 
 ## 7. Progresso e Salvamento
 
