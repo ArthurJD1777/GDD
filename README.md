@@ -297,7 +297,30 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 
 ### 6.2. Efeitos Sonoros
 
-- **Efeitos Sonoros:**
+
+https://github.com/user-attachments/assets/f3886133-beb5-49bb-8d6b-c981eb952b0b
+
+
+
+https://github.com/user-attachments/assets/84b0aca8-5e43-4148-95d2-b1a1e35d85f6
+
+
+
+https://github.com/user-attachments/assets/9998d5b6-8abc-4a47-9364-4e7f1dfb19db
+
+
+
+https://github.com/user-attachments/assets/fb09e6e7-f8d9-45bd-a098-d4bcca363ffe
+
+
+
+https://github.com/user-attachments/assets/7b6ac9ec-6906-41e6-b78e-d55d92a2e103
+
+
+
+https://github.com/user-attachments/assets/6726e010-c43e-438b-ac81-5fa4be744381
+
+
 
 
 ### 6.3. Ambiente Sonoro
