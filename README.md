@@ -292,7 +292,16 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 
 ### 6.1. Trilha Sonora
 
-- **Trilha Sonora:**
+
+https://github.com/user-attachments/assets/8084cc20-5244-4857-ae57-c0b30b75c423
+
+
+https://github.com/user-attachments/assets/4ca27a10-1958-416f-a95b-c8218ab2010f
+
+
+
+https://github.com/user-attachments/assets/15f62b8c-6147-4fee-8666-5334e9565246
+
 
 
 ### 6.2. Efeitos Sonoros
