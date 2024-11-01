@@ -47,7 +47,6 @@ Este repositório contém um template completo para um Documento de Design de Jo
 6. [Áudio](#6-áudio)<br>
     6.1. [Trilha Sonora](#61-trilha-sonora)  
     6.2. [Efeitos Sonoros](#62-efeitos-sonoros)  
-    6.4. [Ambiente Sonoro](#64-ambiente-sonoro)  
 
 7. [Progresso e Salvamento](#7-progresso-e-salvamento)<br>
     7.1. [Sistema de Progressão](#71-sistema-de-progressão)  
