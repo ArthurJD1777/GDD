@@ -109,7 +109,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
  
 ### 3.2. Personagens
 1t. Agente
-   - Ele trabalha como guarda noturno no museu, a visão do jogador será nele. O fazendo protagonista desse jogo
+   - *Ele trabalha como guarda noturno no museu, a visão do jogador será nele. O fazendo protagonista desse jogo*
    
    <img src="https://github.com/user-attachments/assets/57c2dd7c-fccc-4be7-82ef-761b5e8226f5">
 
@@ -118,7 +118,7 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
   
 2. Ladrão
-  - Ele será o nosso alvo e objetivo principal, ele ira fugir de nós ao decorrer das fases
+  - *Ele será o nosso alvo e objetivo principal, ele ira fugir de nós ao decorrer das fases*
 
   ![Capturar](https://github.com/user-attachments/assets/88d0fabe-6061-430a-9a1f-b4dad629e78f)
 
@@ -236,8 +236,8 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 
 ### 4.3. Desafios e Puzzles
 - **Desafios:**
-- *Puzzles de portas trancadas: As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.*
-- *Desafio contra o tempo: Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.*
+- Puzzles de portas trancadas: *As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.*
+- Desafio contra o tempo: *Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.*
 
 
 ### 4.4. Fluxo dos Níveis
