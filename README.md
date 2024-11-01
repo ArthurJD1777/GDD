@@ -299,8 +299,11 @@ https://github.com/user-attachments/assets/8084cc20-5244-4857-ae57-c0b30b75c423
 https://github.com/user-attachments/assets/4ca27a10-1958-416f-a95b-c8218ab2010f
 
 
-
 https://github.com/user-attachments/assets/15f62b8c-6147-4fee-8666-5334e9565246
+
+
+https://github.com/user-attachments/assets/00bd41f5-5367-4dbd-a232-7cb925c0dbe2
+
 
 
 
@@ -330,11 +333,6 @@ https://github.com/user-attachments/assets/7b6ac9ec-6906-41e6-b78e-d55d92a2e103
 https://github.com/user-attachments/assets/6726e010-c43e-438b-ac81-5fa4be744381
 
 
-
-
-### 6.3. Ambiente Sonoro
-
-- **Som Ambiente:**
 
 ## 7. Progresso e Salvamento
 
