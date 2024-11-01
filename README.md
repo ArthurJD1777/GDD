@@ -236,20 +236,20 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 
 ### 4.3. Desafios e Puzzles
 - **Desafios:**
-- Puzzles de portas trancadas: As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.
-- Desafio contra o tempo: Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.
+- *Puzzles de portas trancadas: As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.*
+- *Desafio contra o tempo: Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.*
 
 
 ### 4.4. Fluxo dos Níveis
--Níveis: Cada nível principal é dividido em três sub-níveis, cada um com objetivos específicos que o jogador precisa completar para avançar.
-Checkpoints: Cada sub-nível possui dois checkpoints onde o progresso é salvo automaticamente, garantindo que o jogador não precise refazer grandes partes do jogo se falhar.
+- Níveis: *Cada nível principal é dividido em três sub-níveis, cada um com objetivos específicos que o jogador precisa completar para avançar.*
+Checkpoints: *Cada sub-nível possui dois checkpoints onde o progresso é salvo automaticamente, garantindo que o jogador não precise refazer grandes partes do jogo se falhar.*
 
-Pontos de Salvamento:Salvamento Automático: O jogo salva automaticamente ao final de cada sub-nível, garantindo que o progresso seja mantido após completar desafios importantes.
+Pontos de Salvamento:Salvamento Automático: *O jogo salva automaticamente ao final de cada sub-nível, garantindo que o progresso seja mantido após completar desafios importantes.*
 
-Ritmo de Jogo:Sequências de Ação e Puzzles: O ritmo alterna entre momentos de ação intensa, como fugir de armadilhas ou perseguir o ladrão, e momentos de resolução de puzzles, criando uma experiência equilibrada.
+Ritmo de Jogo: *Sequências de Ação e Puzzles: O ritmo alterna entre momentos de ação intensa, como fugir de armadilhas ou perseguir o ladrão, e momentos de resolução de puzzles, criando uma experiência equilibrada.*
 
 Transições: 
-Cenas de Transição: Após completar um nível principal, uma cena curta é revelada e então prepara o jogador para o próximo desafio.
+Cenas de Transição: *Após completar um nível principal, uma cena curta é revelada e então prepara o jogador para o próximo desafio.*
 
 ### 4.5. Balanceamento de Dificuldade
 -  O primeiro nível ensina o básico.
@@ -261,14 +261,14 @@ Cenas de Transição: Após completar um nível principal, uma cena curta é rev
 ## 5. Arte e Estilo Visual
 
 ### 5.1. Estilo Artístico
-O jogo usa gráficos 3D realistas com cores intensas e com contraste. O ambiente do museu é detalhado e elegante, com sombras e iluminação que destacam o suspense e a ação. Elementos futuristas, como lasers, se misturam ao visual moderno, alinhando-se ao tema de roubo e perseguição.
+*O jogo usa gráficos 3D realistas com cores intensas e com contraste. O ambiente do museu é detalhado e elegante, com sombras e iluminação que destacam o suspense e a ação. Elementos futuristas, como lasers, se misturam ao visual moderno, alinhando-se ao tema de roubo e perseguição.*
 
 ### 5.2. Personagens e Animações
-Os personagens são desenhados em 3D. O agente de segurança do prédio veste um traje azul escuro com acessórios prateados e dourados, transmitindo seriedade e profissionalismo. O ladrão usa um traje laranja vibrante, ágil e furtivo, refletindo sua natureza astuta. 
-As expressões faciais são sutis, mas eficazes, transmitindo emoções como determinação ou surpresa. As animações são fluidas e incluem movimentos de corrida, salto e esquiva.
+*Os personagens são desenhados em 3D. O agente de segurança do prédio veste um traje azul escuro com acessórios prateados e dourados, transmitindo seriedade e profissionalismo. O ladrão usa um traje laranja vibrante, ágil e furtivo, refletindo sua natureza astuta. 
+As expressões faciais são sutis, mas eficazes, transmitindo emoções como determinação ou surpresa. As animações são fluidas e incluem movimentos de corrida, salto e esquiva.*
 
 ### 5.3. Cenários e Ambientes
-Cada seção do museu, desde as elegantes galerias de arte até os corredores de segurança ultramodernos, apresenta um visual distinto. A iluminação varia conforme o ambiente, em áreas de exposição dos quadros são iluminadas com luzes suaves que destacam a beleza das obras, enquanto as zonas de segurança são envoltas em sombras e luzes dramáticas que aumentam a tensão.
+*Cada seção do museu, desde as elegantes galerias de arte até os corredores de segurança ultramodernos, apresenta um visual distinto. A iluminação varia conforme o ambiente, em áreas de exposição dos quadros são iluminadas com luzes suaves que destacam a beleza das obras, enquanto as zonas de segurança são envoltas em sombras e luzes dramáticas que aumentam a tensão.*
 
 
 ### 5.4. Interface do Usuário (UI)
@@ -281,11 +281,11 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 ### 5.5. Paleta de Cores
 
 - **Paleta de Cores:**
-• Exposições: Bege, marrom e dourado transmitem a sofisticação das galerias de arte e artefatos antigos, destacando a elegância dos ambientes.
+• Exposições: *Bege, marrom e dourado transmitem a sofisticação das galerias de arte e artefatos antigos, destacando a elegância dos ambientes.*
 
-• Segurança: Cinza escuro, prata, refletem a atmosfera de uma sala de museu com várias estátuas, criando um visual de segurança.
+• Segurança: *Cinza escuro, prata, refletem a atmosfera de uma sala de museu com várias estátuas, criando um visual de segurança.*
 
-• Cofre: Vermelho e laranja intensificam a urgência e a tensão durante os momentos de ação e perseguições.
+• Cofre:*Vermelho e laranja intensificam a urgência e a tensão durante os momentos de ação e perseguições.*
 
 
 ## 6. Áudio
