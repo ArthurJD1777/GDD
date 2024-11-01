@@ -244,7 +244,7 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
 - Níveis: *Cada nível principal é dividido em três sub-níveis, cada um com objetivos específicos que o jogador precisa completar para avançar.*
 Checkpoints: *Cada sub-nível possui dois checkpoints onde o progresso é salvo automaticamente, garantindo que o jogador não precise refazer grandes partes do jogo se falhar.*
 
-Pontos de Salvamento:Salvamento Automático: *O jogo salva automaticamente ao final de cada sub-nível, garantindo que o progresso seja mantido após completar desafios importantes.*
+Pontos de Salvamento: *Salvamento Automático:O jogo salva automaticamente ao final de cada sub-nível, garantindo que o progresso seja mantido após completar desafios importantes.*
 
 Ritmo de Jogo: *Sequências de Ação e Puzzles: O ritmo alterna entre momentos de ação intensa, como fugir de armadilhas ou perseguir o ladrão, e momentos de resolução de puzzles, criando uma experiência equilibrada.*
 
@@ -252,10 +252,10 @@ Transições:
 Cenas de Transição: *Após completar um nível principal, uma cena curta é revelada e então prepara o jogador para o próximo desafio.*
 
 ### 4.5. Balanceamento de Dificuldade
--  O primeiro nível ensina o básico.
--  A dificuldade cresce com mais armadilhas e mais inimigos complexos.
--  Puzzles exigem decisões rápidas.
-- Checkpoints e dicas evitam frustração, mantendo o jogo desafiador, mas justo.
+-  *O primeiro nível ensina o básico.*
+-  *A dificuldade cresce com mais armadilhas e mais inimigos complexos.*
+-  *Puzzles exigem decisões rápidas.*
+- *Checkpoints e dicas evitam frustração, mantendo o jogo desafiador, mas justo.*
 
 
 ## 5. Arte e Estilo Visual
@@ -380,7 +380,7 @@ https://github.com/user-attachments/assets/6726e010-c43e-438b-ac81-5fa4be744381
   - duas primeiras semanas de setembro: Testar e ajustar protótipos com feedback interno.
 
 -  Alfa ( de setembro à metade de outubro):
-  - fim de setembro:Desenvolver os principais níveis e mecânicas.
+  - fim de setembro: Desenvolver os principais níveis e mecânicas.
   - começo de outubro: Integrar arte, áudio e funcionalidades completas.
   -fim de outubro: Finalizar a versão alfa e preparar para testes internos.
 
