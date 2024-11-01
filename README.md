@@ -359,18 +359,18 @@ https://github.com/user-attachments/assets/6726e010-c43e-438b-ac81-5fa4be744381
 ### 8.2. Feedback dos Jogadores
 
 - **Feedback:**
-- Pesquisas: Os jogadores poderão responder a pesquisas dentro do jogo para compartilhar suas opiniões e sugestões.
+- Pesquisas: *Os jogadores poderão responder a pesquisas dentro do jogo para compartilhar suas opiniões e sugestões.*
 
--Análises: Serão monitorados os padrões de jogo para identificar dificuldades e áreas de melhoria.
+-Análises: *Serão monitorados os padrões de jogo para identificar dificuldades e áreas de melhoria.*
 
 ## 9. Conclusão
 
 ### 9.1. Sumário
 
 - **Sumário:**
-Este GDD descreve Chase Fugitive, um jogo de ação ambientado em um museu. O jogador, no papel de um segurança, deve passar obstáculos, infiltrar-se e recuperar artefatos valiosos, enfrentando desafios em áreas como galerias, segurança e salas de estátuas. A arte é cartunesca, com cores elegantes e tons metálicos, enquanto a trilha sonora mistura elementos orquestrais e eletrônicos, acompanhada por efeitos sonoros variados.
+*Este GDD descreve Chase Fugitive, um jogo de ação ambientado em um museu. O jogador, no papel de um segurança, deve passar obstáculos, infiltrar-se e recuperar artefatos valiosos, enfrentando desafios em áreas como galerias, segurança e salas de estátuas. A arte é cartunesca, com cores elegantes e tons metálicos, enquanto a trilha sonora mistura elementos orquestrais e eletrônicos, acompanhada por efeitos sonoros variados.*
 
-O progresso é salvo automaticamente, com pontos de salvamento.O plano de testes envolve fases alfa e beta, utilizando métodos automatizados e algumas pesquisas para garantir estabilidade do jogo.
+*O progresso é salvo automaticamente, com pontos de salvamento.O plano de testes envolve fases alfa e beta, utilizando métodos automatizados e algumas pesquisas para garantir estabilidade do jogo.*
 
 ### 9.2. Próximos Passos
 
