@@ -236,7 +236,7 @@ O nível final acontece na sala de segurança máxima, cheia de lasers e disposi
  **Mapas:**
 
 ### 4.3. Desafios e Puzzles
-- **oDesafios:**
+- **Desafios:**
 - Puzzles de portas trancadas: As galerias do museu são protegidas por portas trancadas que exigem chaves para serem abertas.Este puzzles obrigam o jogador a explorar o ambiente em busca dos itens, promovendo a exploração e investigação. Para vencer esta fase os jogadores devem procurar as chaves em quadros, estátuas, exposições, balcões espalhados.
 - Desafio contra o tempo: Todo o percurso do labirinto deve ser feito dentro de um limite de tempo. Introduz uma pressão adicional, exigindo que o jogador pense e reaja rapidamente. Isto aumenta a tensão e mantêm o ritmo do jogo. Para superar deve-se encontrar a saída mais rápida para sobreviver ao desafio.
 
@@ -273,8 +273,11 @@ Cada seção do museu, desde as elegantes galerias de arte até os corredores de
 
 
 ### 5.4. Interface do Usuário (UI)
-- HUD: O HUD exibe informações essenciais como um mini-mapa que aparece no canto inferior direito. Esses elementos são discretos, garantindo que não obstruam a visão durante a jogabilidade.
-- Menus: Os menus têm um design limpo com ícones grandes e texto legível. As opções são organizadas de forma clara, com categorias como "Configurações," "Inventário," facilitando a navegação.
+
+## Esboço
+
+![WhatsApp Image 2024-11-01 at 08 20 17](https://github.com/user-attachments/assets/210dca9b-b7da-48f7-a687-ee7b4d681f55)
+
 
 ### 5.5. Paleta de Cores
 
