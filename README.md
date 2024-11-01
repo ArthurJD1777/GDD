@@ -129,11 +129,12 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
 
 ## Policial
 
-![Captura de tela 2024-10-29 082511](https://github.com/user-attachments/assets/e8c35a02-fbfc-48d0-aafe-deb725af1d0e)
+![Captura de tela 2024-11-01 074428](https://github.com/user-attachments/assets/99935f20-c22b-4463-b97a-f20022ca9e1b)
 
-![Captura de tela 2024-10-29 082550](https://github.com/user-attachments/assets/838b1c83-b432-4dee-8939-93f548e9c7de)
+![Captura de tela 2024-11-01 074447](https://github.com/user-attachments/assets/432f94e6-7b21-48fb-83f9-e41b6201b9c3)
 
-![oi](https://github.com/user-attachments/assets/da82c3ef-7f11-4592-8bff-029636f0d6ef)
+![Captura de tela 2024-11-01 074516](https://github.com/user-attachments/assets/ab3145e3-f046-4d9a-bb02-f9238e153a56)
+
 
 ## Ladrão
 
