@@ -63,7 +63,7 @@ Este repositório contém um template completo para um Documento de Design de Jo
 ## 1. Informações Gerais
 
 ### 1.1. Título do Jogo
-**Chase Fugitive** 
+*Chase Fugitive*
 
 ### 1.2. Plataforma
 *Disponivel no PC*
