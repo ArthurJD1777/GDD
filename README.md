@@ -158,6 +158,10 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
   
 <img src="https://github.com/user-attachments/assets/063d73e5-7809-49ff-a691-b0f2c3d44737">
 
+### No Jogo
+
+![Captura de tela 2024-11-07 072720](https://github.com/user-attachments/assets/2e97afc3-438d-472a-9fd1-f069987ff1a1)
+
 
 ## 2.Exposição Das Estatuas
 
