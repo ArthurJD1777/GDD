@@ -165,7 +165,13 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
   
 ![Screenshot_20240814-223240 (1).png](https://github.com/user-attachments/assets/c40059d3-1f7f-4b38-bfac-9c4bb420feee)
 
+### No Jogo
 
+![FASE 2](https://github.com/user-attachments/assets/10f6d264-7012-412c-9633-9373a12441d2)
+
+![FASE 2 (2)](https://github.com/user-attachments/assets/82fb2301-e933-4fa0-a067-d1fe34cf34e2)
+
+![FASE 2 (3)](https://github.com/user-attachments/assets/26d36463-2d65-4f34-8c94-5aaa6fab7869)
 
 ## 3.Cofre das Joias 
 
@@ -177,10 +183,11 @@ Por fim terá a mesma mecanica da fase anterior, porém com lasers. Caso perca i
   
 ![Screenshot_20240814-223307 (1).png](https://github.com/user-attachments/assets/8b703cc5-c684-43a3-b6d3-63381c55f8a6)
 
+### No Jogo
 
+![FASE 3](https://github.com/user-attachments/assets/fa750ce7-9636-47ca-aba0-c7e494a7c628)
 
 ![WhatsApp Image 2024-11-01 at 11 25 00](https://github.com/user-attachments/assets/4c6d6281-5e2c-4dec-a744-2d525ce60c0b)
-
 
 ![WhatsApp Image 2024-11-01 at 11 24 59](https://github.com/user-attachments/assets/29443012-520d-4da9-823e-b395ab6d7ea9)
 
