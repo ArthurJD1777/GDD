@@ -355,13 +355,13 @@ https://github.com/user-attachments/assets/6726e010-c43e-438b-ac81-5fa4be744381
 ## 7. Progresso e Salvamento
 
 ### 7.1. Sistema de Progressão
-*- História:* Avançar na narrativa desbloqueia novas áreas do museu.
-*- Coleta:* Chaves são adquiridas para superar portas.
+- História: *Avançar na narrativa desbloqueia novas áreas do museu.*
+- Coleta: *Chaves são adquiridas para superar portas.*
 
   
 ### 7.2. Sistema de Salvamento
-*- Salvamento Automático:* O jogo grava automaticamente ao completar missões e entrar em novas áreas.
-*- Checkpoints:* Existem checkpoints espalhados pelos níveis, garantindo que o jogador não perca muito progresso se precisar recomeçar.
+- Salvamento Automático: *O jogo grava automaticamente ao completar missões e entrar em novas áreas.*
+- Checkpoints: *Existem checkpoints espalhados pelos níveis, garantindo que o jogador não perca muito progresso se precisar recomeçar.*
 
 
 
